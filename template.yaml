@@ -34,3 +34,4 @@ Outputs:
   SalvarDadosSensorFunctionIamRole:
     Description: Implicit IAM Role created for Hello World function
     Value: !GetAtt SalvarDadosSensorFunctionRole.Arn
+
